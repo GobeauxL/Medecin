@@ -1,0 +1,13 @@
+.titre {
+	text-align: center;
+	text-decoration: underline;
+}
+
+body {
+	color: white;
+	background-image:url(fdg.jpg);
+	text-align: center;
+}
+.entete {
+	text: white;
+}

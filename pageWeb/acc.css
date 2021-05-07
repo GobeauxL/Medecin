@@ -1,0 +1,28 @@
+.button {
+  display: inline-block;
+  padding: 13px 23px;
+  font-size: 20px;
+  cursor: pointer;
+  text-align: center;
+  text-decoration: none;
+  outline: none;
+  color: #fff;
+  background-color: #1B1224;
+  border: none;
+  border-radius: 13px;
+  box-shadow: 0 9px #999;
+  display: block;
+  position: relative;
+  margin-left: 500;
+  margin-right: 500;
+}
+
+.titre {
+	text-align: center;
+	text-decoration: underline;
+}
+
+body {
+	color: white;
+	background-image:url(fdg.jpg);
+}
